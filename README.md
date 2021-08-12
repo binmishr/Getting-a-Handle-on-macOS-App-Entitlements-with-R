@@ -1,0 +1,1 @@
+# Getting-a-Handle-on-macOS-App-Entitlements-with-R
